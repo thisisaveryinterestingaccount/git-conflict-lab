@@ -1,2 +1,3 @@
 # Contributors for the project:
-* john adams
+* John Adams
+* Shin Umeda
